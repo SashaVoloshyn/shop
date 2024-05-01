@@ -1,0 +1,132 @@
+{
+  "en": {
+    "common": {
+      "more": "more",
+      "order_price": "Order price"
+    },
+    "header": {
+      "menu_btn": "Menu",
+      "search_products": "Search for products",
+      "search_infos": "Product name, category, type...",
+      "profile": "Profile",
+      "logout": "Logout"
+    },
+    "main_menu": {
+      "catalog": "Catalog",
+      "buyers": "For buyers",
+      "contacts": "Contacts",
+      "cloth": "Cloth",
+      "accessories": "Accessories",
+      "souvenirs": "Souvenirs",
+      "office": "Office",
+      "all": "All catalog",
+      "about": "About",
+      "blog": "Blog",
+      "shipping": "Shipping and payment",
+      "returns": "Purchase returns",
+      "tg": "Telegram",
+      "facebook": "Facebook"
+    },
+    "comparison": {
+      "umbrella": "Umbrellas",
+      "bags": "Bags",
+      "outerwear": "Outerwear",
+      "long-sleeves": "Long-sleeves",
+      "headdress": "Headdress",
+      "hoodie": "Hoodie",
+      "business-souvenirs": "Business-souvenirs",
+      "promotional-souvenirs": "Promotional-souvenirs",
+      "pen": "Pens",
+      "notebook": "Notebooks",
+      "t-shirts": "T-shirts",
+      "main_heading": "Comparison"
+    },
+    "breadcrumbs": {
+      "main": "Main",
+      "comparison": "Comparison",
+      "cart": "Cart",
+      "favorites": "Favorites",
+      "catalog": "Catalog",
+      "profile": "Profile",
+      "cloth": "Cloth",
+      "accessories": "Accessories",
+      "office": "Office",
+      "souvenirs": "Souvenirs",
+      "order": "Placing an order",
+      "personal_data_policy": "Data processing policy",
+      "privacy_policy": "Privacy policy"
+    },
+    "footer": {
+      "copyright": "«My Shoppp» All rights reserved",
+      "policy": "Data processing policy",
+      "privacy": "Privacy policy",
+      "mobile_version": "Mobile version",
+      "full_version": "Full version of the site"
+    }
+  },
+  "ua": {
+    "common": {
+      "more": "Ще",
+      "order_price": "Сума замовлення"
+    },
+    "header": {
+      "menu_btn": "Меню",
+      "search_products": "Пошук товарів",
+      "search_infos": "Назва товару, категорія, тип...",
+      "profile": "Профіль",
+      "logout": "Вийти"
+    },
+    "main_menu": {
+      "catalog": "Каталог",
+      "buyers": "Покупцям",
+      "contacts": "Контакти",
+      "cloth": "Одяг",
+      "accessories": "Аксесуари",
+      "souvenirs": "Сувеніри",
+      "office": "Канцелярія",
+      "all": "Весь каталог",
+      "about": "Про нас",
+      "blog": "Блог",
+      "shipping": "Доставка та оплата",
+      "returns": "Повернення товару",
+      "tg": "Телеграм",
+      "facebook": "Фейсбук"
+    },
+    "comparison": {
+      "umbrella": "Парасолі",
+      "bags": "Сумки",
+      "outerwear": "Верхній одяг",
+      "long-sleeves": "Лонг-сліви",
+      "headdress": "Головні убори",
+      "hoodie": "Худі",
+      "business-souvenirs": "Бізнес-сувеніри",
+      "promotional-souvenirs": "Промо-сувеніри",
+      "pen": "Ручки",
+      "notebook": "Зошити",
+      "t-shirts": "Футболки",
+      "main_heading": "Порівняння"
+    },
+    "breadcrumbs": {
+      "main": "Головна",
+      "comparison": "Порівняння",
+      "cart": "Кошик",
+      "favorites": "Вибране",
+      "catalog": "Каталог",
+      "profile": "Профіль",
+      "cloth": "Одежа",
+      "accessories": "Акссесуари",
+      "office": "Канцелярія",
+      "souvenirs": "Сувеніри",
+      "order": "Оформлення замовлення",
+      "personal_data_policy": "Політика опрацювання данних",
+      "privacy_policy": "Політика конфіденційності"
+    },
+    "footer": {
+      "copyright": "«My Shoppp» Всі права захищенні",
+      "policy": "Політика обробки данних",
+      "privacy": "Політика конфіденційності",
+      "mobile_version": "Мобільна версія",
+      "full_version": "Повна версія сайту"
+    }
+  }
+}
